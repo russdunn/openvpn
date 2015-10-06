@@ -1,3 +1,9 @@
+#################################
+# BinaryCents OpenVPN Tutorial  #
+# ---  www.binarycents.com ---  # 
+#################################
+# - Sample OpenVPN 'vars' file
+
 # easy-rsa parameter settings
 
 # NOTE: If you installed from an RPM,
