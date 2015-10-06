@@ -70,5 +70,10 @@ export KEY_EMAIL=my@email.com.au
 export KEY_CN=VPN-Server
 export KEY_NAME=Master
 export KEY_OU=Office
+
+# For the purpose of the BinaryCents totorial
+# disregard the following two lines.. They are
+# used for token logins and outside the scope
+# of this tutorial.
 export PKCS11_MODULE_PATH=pkcs_path
 export PKCS11_PIN=1234
